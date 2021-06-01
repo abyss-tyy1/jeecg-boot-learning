@@ -1,0 +1,4 @@
+org\jeecg\modules\online\desform\test\DesformApiTest.class
+org\jeecg\SecurityToolsTest.class
+org\jeecg\modules\online\desform\test\OnlineApiTest.class
+org\jeecg\modules\system\test\SysUserTest.class
