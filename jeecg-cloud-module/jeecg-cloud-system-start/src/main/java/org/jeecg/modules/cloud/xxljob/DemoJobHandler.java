@@ -1,8 +1,5 @@
 
-package org.jeecg.modules.cloud.xxljob;;
-
-
-import com.xxl.job.core.biz.model.ReturnT;
+package org.jeecg.modules.cloud.xxljob;import com.xxl.job.core.biz.model.ReturnT;
 import com.xxl.job.core.handler.IJobHandler;
 import com.xxl.job.core.handler.annotation.XxlJob;
 import com.xxl.job.core.log.XxlJobLogger;
@@ -17,6 +14,8 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.Arrays;
+
+;
 
 
 /**
